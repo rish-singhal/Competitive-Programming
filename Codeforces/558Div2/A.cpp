@@ -49,7 +49,7 @@ int main()
     }
     else
     {
-        cout << an(a - 1, b - 1) << endl;
+        cout << min(b, a - b) << endl;
     }
     return 0;
 }
