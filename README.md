@@ -1,2 +1,5 @@
 ## Competitive-Programming
-    Repositry showcasing all my submissions on various online judges :smile
+    Repositry showcasing all my submissions on various online judges
+   
+   :) 
+    
