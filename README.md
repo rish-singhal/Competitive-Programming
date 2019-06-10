@@ -8,6 +8,6 @@
     
     
 ## Tutorials
-    [Bit Tree - Topcoder](https://www.topcoder.com/community/competitive-programming/tutorials/binary-indexed-trees/)
+   [Bit Tree - Topcoder]( https://www.topcoder.com/community/competitive-programming/tutorials/binary-indexed-trees/ )
     
-    
+     
